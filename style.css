@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.logo{
+    font-family: Pacifico;
+    font-size: 45px;
+}
+
+header{
+    display: flex;
+    border: 3px solid red;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+nav>a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
